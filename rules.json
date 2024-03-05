@@ -1,0 +1,14 @@
+[
+  {
+    "id" : 1,
+    "priority" : 1,
+    "action" : { "type" : "block"},
+    "condition" : { "urlFileter" : "*://*doubleclick.net/*"},
+  },
+  {
+    "id" : 2,
+    "priority" : 1,
+    "action" : { "type" : "block"},
+    "condition" : { "urlFileter" : "*://*googleadservices.com/*"},
+  }
+]
